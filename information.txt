@@ -1,0 +1,14 @@
+I statred  my programming in 2023 with HTML , CSS  and Javascript.I was determind to become a full-stack devloper. so i continued
+learning and Practicing a new programming language until i mastered them .while  building a programming skill i also 
+picked up some extra skills such as video, audio editing  and excel and many more . i am proud of  my accomplishments
+and i am excited to continue this journey.to keep learning new things and to explore new apportunities that help me grow
+even more as devloper. 
+points
+After mastering with HTML,CSS and JAVASCRIPT, i expanded my skill to improve other programming languages like Bootstrap React, React Native
+java and MYSQL 
+With my Knowledge of Bootstrap ,i was able to creacte a Responsive  and Intractive web page.
+i also learnend React Native which enable me to devlop mobile application for both  iOS and Android devices.
+with my knowledge of React ,i was able to create  responsive and creative UI design for web application.
+My knowledge of JAVA  and MySQL allowed  me  to create dynamic and database driven website and dynamic web application.
+ Throughout my journey ,I have been dedicated to learning and improving my skill and look forward to continuing to grow
+ and explore new apportunities as a devloper.
